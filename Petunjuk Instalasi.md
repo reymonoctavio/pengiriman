@@ -22,7 +22,7 @@ Sesuaikan pengaturan PHP jika diperlukan, seperti php.ini.
 
 Buka browser dan akses aplikasi melalui http://localhost/nama_aplikasi.
 
-Jika menggunakan database, lakukan migrasi dan seeding data sesuai dokumentasi aplikasi.
+Gunakan Database "kurir_1.sql", lakukan migrasi dan seeding data sesuai dokumentasi aplikasi.
 
 # Troubleshooting
 
