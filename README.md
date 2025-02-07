@@ -1,5 +1,3 @@
-MIT License
-
 Copyright (c) [2024] [Reymon Octavio]
 
 Dengan ini diberikan izin, secara gratis, kepada siapa saja yang memperoleh salinan perangkat lunak ini dan file dokumentasi terkait ("Perangkat Lunak"), untuk berurusan dengan Perangkat Lunak tanpa batasan, termasuk tanpa batasan hak untuk menggunakan, menyalin, mengubah, menggabungkan, menerbitkan, mendistribusikan, mensublisensikan, dan/atau menjual salinan Perangkat Lunak, serta mengizinkan orang kepada siapa Perangkat Lunak disediakan untuk melakukan hal yang sama, dengan tunduk pada ketentuan berikut:
