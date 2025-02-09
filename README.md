@@ -1,7 +1,34 @@
-Copyright (c) [2024] [Reymon Octavio]
+# Instalasi
 
-Dengan ini diberikan izin, secara gratis, kepada siapa saja yang memperoleh salinan perangkat lunak ini dan file dokumentasi terkait ("Perangkat Lunak"), untuk berurusan dengan Perangkat Lunak tanpa batasan, termasuk tanpa batasan hak untuk menggunakan, menyalin, mengubah, menggabungkan, menerbitkan, mendistribusikan, mensublisensikan, dan/atau menjual salinan Perangkat Lunak, serta mengizinkan orang kepada siapa Perangkat Lunak disediakan untuk melakukan hal yang sama, dengan tunduk pada ketentuan berikut:
+Unduh dan Ekstrak Aplikasi
 
-Pernyataan hak cipta di atas dan pemberitahuan izin ini harus disertakan dalam semua salinan atau bagian substansial dari Perangkat Lunak.
+Unduh source code dari repository atau paket yang disediakan.
 
-PERANGKAT LUNAK INI DISEDIAKAN "SEBAGAIMANA ADANYA", TANPA JAMINAN APA PUN, TERSURAT MAUPUN TERSIRAT, TERMASUK NAMUN TIDAK TERBATAS PADA JAMINAN DAPAT DIPERJUALBELIKAN, KESESUAIAN UNTUK TUJUAN TERTENTU, DAN NONPELANGGARAN. DALAM KEADAAN APA PUN, PENULIS ATAU PEMEGANG HAK CIPTA TIDAK BERTANGGUNG JAWAB ATAS KLAIM, KERUSAKAN, ATAU KEWAJIBAN LAINNYA, BAIK DALAM KONTRAK, KESALAHAN, ATAU LAINNYA, YANG TIMBUL DARI, KELUAR DARI, ATAU BERKAITAN DENGAN PERANGKAT LUNAK ATAU PENGGUNAAN ATAU PERDAGANGAN DALAM PERANGKAT LUNAK.
+Ekstrak file ke dalam direktori root server Apache (misalnya, /var/www/html/ pada Linux atau C:\xampp\htdocs\ pada Windows).
+
+# Konfigurasi Apache
+
+Pastikan Apache versi 7 telah terinstal dan berjalan.
+
+Konfigurasikan virtual host jika diperlukan dengan mengedit file konfigurasi Apache (httpd.conf atau sites-available/default).
+
+# Konfigurasi PHP
+
+Pastikan PHP versi 7 telah terinstal dan kompatibel dengan aplikasi.
+
+Sesuaikan pengaturan PHP jika diperlukan, seperti php.ini.
+
+# Menjalankan Aplikasi
+
+Buka browser dan akses aplikasi melalui http://localhost/nama_aplikasi.
+
+Gunakan Database "kurir_1.sql", lakukan migrasi dan seeding data sesuai dokumentasi aplikasi.
+
+# Troubleshooting
+
+Periksa log Apache dan PHP jika terjadi error.
+
+Pastikan semua ekstensi PHP yang diperlukan telah diaktifkan.
+
+Pastikan izin file dan folder telah diatur dengan benar.
+
